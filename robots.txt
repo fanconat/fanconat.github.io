@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fanconat.github.io/sitemap.html.gz
+Sitemap: https://fanconat.github.io/app/sitemap.html.gz
+Sitemap: https://fanconat.github.io/assets/sitemap.html.gz
+Sitemap: https://fanconat.github.io/css/sitemap.html.gz
+Sitemap: https://fanconat.github.io/includes/sitemap.html.gz
+Sitemap: https://fanconat.github.io/item/sitemap.html.gz
+Sitemap: https://fanconat.github.io/src/sitemap.html.gz
